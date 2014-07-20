@@ -1,0 +1,2 @@
+-r base.txt
+nose2>=0.4.7
